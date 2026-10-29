@@ -4,10 +4,9 @@ Gönderilen OpenCart 3.0.5.1/Codervia yapısı için hazırlanmış OCMOD paketi
 
 ## İndirme
 
-- [OCMOD ZIP dosyası](releases/c2c.ocmod.zip?raw=true)
+Teslim ZIP dosyası kullanıcının isteğiyle kaldırılmıştır.
 - [Kurulum ve kapsam](docs/KURULUM.md)
 - [Test raporu](docs/TEST-RAPORU.md)
-- [SHA256 doğrulaması](releases/SHA256.txt)
 
 ## Kapsam
 
